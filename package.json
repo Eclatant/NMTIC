@@ -1,5 +1,9 @@
 {
-    "scripts": {
-        "test": "mocha"
-    }
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "is-coprime": "^1.0.0",
+    "lodash": "^4.17.4"
+  }
 }
